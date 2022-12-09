@@ -5,7 +5,7 @@
 #  
 # Exercises taken from www.berkeley.edu
 # You can edit this python file and execute it to see the results directly.
-# Follow me at GitHub> @robayoivan2077
+# Follow me at GitHub> @ivrr207
 
 # -------------------------------------          EXERCISE 01          -------------------------------------
 # ---------------------------------------------------------------------------------------------------------
